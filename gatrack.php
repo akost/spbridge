@@ -1,6 +1,6 @@
 <?php
   // Copyright 2009 Google Inc. All Rights Reserved.
-  $GA_ACCOUNT = "MO-310567-4";
+  $GA_ACCOUNT = "##-####-##";
   $GA_PIXEL = "/ga.php";
 
   function googleAnalyticsGetImageUrl() {
